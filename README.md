@@ -1,5 +1,16 @@
 # Programming Language Upvote & Request App by Firebase Firestore, Cloud Functions, React, Chakra UI
 site: https://program-ranking.netlify.app
+##Features
+⋅⋅* Like, unlike your favorite programming language
+⋅⋅* Login, signup 
+⋅⋅* Submit a language to the rank
+
+##Techs
+⋅⋅* React
+⋅⋅* ChakraUI
+⋅⋅* Firebase Firestore
+⋅⋅* Firebase Cloud Functions
+
 ![alt text](https://i.imgur.com/9LEzbm4.jpg "Programming Language Ranking App")
 
 
