@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Programming Language Upvote & Request App by Firebase Firestore, Cloud Functions, React, Chakra UI
+site: https://program-ranking.netlify.app
+![alt text](https://i.imgur.com/9LEzbm4.jpg "Programming Language Ranking App")
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
